@@ -1,4 +1,4 @@
-### About Me:
+### Who Am I?
 
 Ricardo is a Developer Advocate at [Confluent](https://www.confluent.io), the company founded by the original co-creators of [Apache Kafka](https://kafka.apache.org).
 He has over 20 years of experience where he specializes in streaming data architectures, big data, cloud, and serverless.
