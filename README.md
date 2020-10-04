@@ -5,13 +5,13 @@ Ricardo is Principal Developer Advocate 🥑 at [Elastic](https://www.elastic.co
 While not working he loves barbecuing on his backyard with his family and friends, where he gets the chance to talk about anything that is not IT related. He lives in North Carolina, USA with his wife and son. Follow Ricardo on Twitter: [@riferrei](https://twitter.com/riferrei)
 
 <p align="center">
-  <a href="https://github.com/riferrei/github-readme-stats">
+  <a href="https://github.com/riferrei?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=riferrei&layout=compact"
     />
   </a>
-  <a href="https://github.com/riferrei/github-readme-stats">
+  <a href="https://github.com/riferrei?tab=repositories">
     <img
       align="center"
       height="165"
