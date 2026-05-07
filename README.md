@@ -1,3 +1,3 @@
-Ricardo leads the Developer Relations team at [Redis](https://redis.io). Previously, he held roles at [AWS](https://aws.amazon.com), [Elastic](https://www.elastic.co), [Confluent](https://www.confluent.io), and [Oracle](https://www.oracle.com/).
+Ricardo serves as Principal Developer Advocate at Redis, leading the Developer Relations team. Previously, he held roles at [AWS](https://aws.amazon.com), [Elastic](https://www.elastic.co), and [Confluent](https://www.confluent.io).
 
 He has more than 25 years of experience in distributed systems, databases, and software development. He began his career focused on software engineering and developer education, then moved into solution architecture, helping customers design, build, and deploy data-intensive applications. Over time, he found his passion in DevRel, where he combines deep technical expertise, teaching experience, and customer empathy to help developers succeed.
