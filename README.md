@@ -1,3 +1,5 @@
-Ricardo serves as Principal Developer Advocate at Redis, leading the Developer Relations team. Previously, he held roles at [AWS](https://aws.amazon.com), [Elastic](https://www.elastic.co), and [Confluent](https://www.confluent.io).
-
-He has more than 25 years of experience in distributed systems, databases, and software development. He began his career focused on software engineering and developer education, then moved into solution architecture, helping customers design, build, and deploy data-intensive applications. Over time, he found his passion in DevRel, where he combines deep technical expertise, teaching experience, and customer empathy to help developers succeed.
+I work at the intersection of distributed systems, AI, and data infrastructure, turning complex technology into things developers can understand, adopt, and build with.
+ 
+Lately, that means hands-on AI engineering: building vector search, semantic caching, agent memory, and RAG into the data layer; contributing to LangChain4j and RedisVL for Golang; and figuring out how to make AI agents secure enough to ship.
+ 
+The AI-native work isn't a pivot. It draws on the same systems-design foundation I've built for 15 years, moving data fast, at scale, close to compute, watching where systems break; now applied to vectors and agents. I've worked on event streaming with Apache Kafka and Flink at [AWS](https://aws.amazon.com) and [Confluent](https://www.confluent.io); observability at [Elastic](https://www.elastic.co); and RDBMS, NoSQL, and Big Data at [Oracle](https://www.oracle.com). That foundation is exactly what separates AI demos that work on stage from AI systems that survive production.
