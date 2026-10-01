@@ -1,4 +1,4 @@
-I work at the intersection of distributed systems, AI, and data infrastructure, turning complex technology into things developers can understand, adopt, and build with.
+I work at the intersection of AI, data infrastructure, and distributed systems, turning complex technology into things developers can understand, adopt, and build with.
 
 Lately, that means hands-on AI engineering: building vector search, semantic caching, agent memory, and RAG into the data layer, and figuring out how to make AI agents secure enough to ship. I contribute to open-source projects like LangChain4j and RedisVL for Golang.
 
